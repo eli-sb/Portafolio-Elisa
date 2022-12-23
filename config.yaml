@@ -2,7 +2,7 @@
 languageCode: en-us 
 
 # Título del sitio
-title: "Título"
+title: "Elisa's Portfolio "
 
 # Tema que se usa
 theme: "toha"
@@ -31,13 +31,13 @@ enableEmoji: true
 params:
   
   # Imagen de fondo
-  background: "images/site/fondo4.jpg"
+  background: "images/site/fondo3.jpg"
   
   # Poner un logo al sitio
   logo:
-    main: /images/site/profile.png
-    inverted: /images/site/profile.png
-    favicon: /images/site/profile.png
+    main: /images/site/IMG_0315_.jpg
+    inverted: /images/site/IMG_0315_.jpg
+    favicon: /images/site/IMG_0315_.jpg
  
  # Habilitar tema oscuro
   darkMode:
