@@ -14,10 +14,10 @@ image: "images/author/IMG_0315_.jpg"
 contactInfo:
   email: "elisaba4322@gmail.com"
   phone: "5536455793"
-  linkedin:
-    icon: linkedin
-    url: "www.linkedin.com/in/elisa-sánchez-bahnsen-8466211b7"
-    text: "LinkedIn Profile"
+  #linkedin:
+    #icon: linkedin
+    #url: "www.linkedin.com/in/elisa-sánchez-bahnsen-8466211b7"
+    #text: "LinkedIn Profile"
  
  
 # Descripción de ti
