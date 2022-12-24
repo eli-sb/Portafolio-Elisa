@@ -5,19 +5,19 @@ name: "Elisa Sánchez Bahnsen"
 nickname: "Elisa"
  
 # Saludo inicial antes de tu apodo
-greeting: "Hello, I am"
+greeting: "Hello, I'm"
  
 # Imagen de ti
-image: "images/author/IMG_0315_.jpg"
+image: "images/author/profile.png"
  
 # Información de contacto
 contactInfo:
   email: "elisaba4322@gmail.com"
   phone: "5536455793"
-  #linkedin:
-    #icon: linkedin
-    #url: "www.linkedin.com/in/elisa-sánchez-bahnsen-8466211b7"
-    #text: "LinkedIn Profile"
+  linkedin:
+    icon: linkedin
+    url: "www.linkedin.com/in/elisa-sánchez-bahnsen-8466211b7"
+    text: "LinkedIn Profile"
  
  
 # Descripción de ti
