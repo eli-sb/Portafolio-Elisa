@@ -8,7 +8,7 @@ nickname: "Elisa"
 greeting: "Hola, yo soy"
  
 # Imagen de ti
-#image: "images/author/"
+image: "images/author/Eli_Profile.jpg"
  
 # Información de contacto
 contactInfo:
@@ -16,14 +16,10 @@ contactInfo:
   phone: "5536455793"
   linkedin:
     icon: linkedin
-    url: "link de linkedin"
-    text: "Texto"
+    url: "www.linkedin.com/in/elisa-sánchez-bahnsen-8466211b7"
+    text: "Perfil de LinkedIn"
  
  
 # Descripción de ti
 summary:
   - Soy una estudiante de Ciencia de Datos
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
-  - Soy un ...
