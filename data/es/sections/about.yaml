@@ -36,13 +36,37 @@ badges:
  
 # Ejemplo soft skill
 - type: soft-skill-indicator
+  name: Trabajo en equipo #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+ 
+ - type: soft-skill-indicator
+  name: Análisis de negocio #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+ 
+  - type: soft-skill-indicator
+  name: Comunicación efectiva #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+  
+   - type: soft-skill-indicator
   name: Liderazgo #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+  
+   - type: soft-skill-indicator
+  name: Gestión del tiempo #Nombre de soft skill
+  percentage: 100 #Porcentaje que tienes / tamaño del círculo
+  color: blue #Color
+  
+   - type: soft-skill-indicator
+  name: Eficacia organizacional #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
  
 # Ejemplo insignia (hard-skill)
-- type: certification
-  name: Applied Data Science with Python #Nombre de insignia
-  url: "https://www.credly.com/badges/" #Link de la insignia
-  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
- 
+#- type: certification
+#  name: Applied Data Science with Python #Nombre de insignia
+#  url: "https://www.credly.com/badges/" #Link de la insignia
+#  badge: "https://images.credly.com/size/680x680/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" #Link imagen
