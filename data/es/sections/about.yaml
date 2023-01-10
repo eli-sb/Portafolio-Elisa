@@ -41,26 +41,26 @@ badges:
   color: blue #Color
  
  - type: soft-skill-indicator
-  name: Análisis de negocio #Nombre de soft skill
-  percentage: 100 #Porcentaje que tienes / tamaño del círculo
-  color: blue #Color
- 
-  - type: soft-skill-indicator
+   name: Análisis de negocio #Nombre de soft skill
+   percentage: 100 #Porcentaje que tienes / tamaño del círculo
+   color: blue #Color
+
+- type: soft-skill-indicator
   name: Comunicación efectiva #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
   
-   - type: soft-skill-indicator
+ - type: soft-skill-indicator
   name: Liderazgo #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
   
-   - type: soft-skill-indicator
+ - type: soft-skill-indicator
   name: Gestión del tiempo #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
   
-   - type: soft-skill-indicator
+ - type: soft-skill-indicator
   name: Eficacia organizacional #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
