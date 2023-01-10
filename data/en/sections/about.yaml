@@ -8,32 +8,28 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Engineering in Data Science and Maths
+designation: Student of 6th semester in Engineering in Data Science and Maths
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
+  name: Tecnológico de Monterrey.
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
  
 # Tu CV
-resume: "files/cv.pdf"
+resume: "files/CV_ElisaSánchez_ENG1.pdf"
  
 # Resumen de ti
-summary: "Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga. Descripción Larga."
+summary: "Hi, my name’s Elisa and I’m a 21 year old Mexican woman. I’m currently on my sixth semester of Engineering in Data Science and Mathematics at Tecnológico de Monterrey. I chose this career because a I like maths and I enjoy programming. My main objective in this field is to perform statistical and trend analysis within an organization to improve its performance using programming tools and machine learning. I am a disciplined young woman, perseverant and optimistic when facing complicated situations with a special interest in artificial intelligence models for the generation of solutions and strategies that benefit a company or organization. Apart from my career, physical activities are a very important part of my everyday life. I’ve practiced sports such as ballet and figure skating since I was a little girl and now I enjoy weight training, running and yoga. I also enjoy reading, specially novels and biographies about relevant athletes. Lastly, I’m very interested in mindfulness in order tu have a stable mental health and better relationships with myself and my loved ones."
  
 # Links a redes sociales
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "Link github personal"
- 
 - name: Linkedin
   icon: "fab fa-linkedin"
-  url: "Link linkedin personal"
+  url: www.linkedin.com/in/elisa-sanchez-bahnsen
  
 - name: Email
   icon: "fas fa-envelope"
-  url: "correo@gmail.com"
+  url: elisaba4322@gmail.com
  
 # Insignias de hard skills y soft skills
 badges:
