@@ -8,11 +8,11 @@ section:
   template: sections/about.html
  
 # Tu puesto / Tu semestre
-designation: Ingeniería en Ciencia de Datos y Matemáticas
+designation: Estudiante de 6to semestre de Ingeniería en Ciencia de Datos y Matemáticas
  
 # Información de tu compañía / Escuela
 company:
-  name: Tec de Monterrey.
+  name: Tecnológico de Monterrey.
   url: "https://tec.mx/es/ciencias-aplicadas/ingeniero-en-ciencia-de-datos-y-matematicas"
  
 # Tu CV
