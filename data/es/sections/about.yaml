@@ -60,7 +60,7 @@ badges:
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
   
- - type: soft-skill-indicator
+- type: soft-skill-indicator
   name: Eficacia organizacional #Nombre de soft skill
   percentage: 100 #Porcentaje que tienes / tamaño del círculo
   color: blue #Color
