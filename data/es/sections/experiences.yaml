@@ -21,18 +21,25 @@ experiences:
     - Realizar publicaciones diarias, contestar mensajes de clientes para dar seguimiento a las ventas de productos.
  
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: YMCA NAUCALPAN.
+    url: "https://www.ymca.org.mx/PY_CDCS.html"
+    overview: "Centro de desarrollo comunitario."
   positions:
-  - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
+  - designation: Creador de contenido educativo (Servicio Social)
+    start: Jun 2022 
+    end: Jul 2022 
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    - Participar en una organización comprometida con impulsar el potencial de niños, jóvenes y adultos de escasos recursos en el área educativa, deportiva, cultural y de desarrollo comunitario.
+    - Investigar y recopilar información sobre distintos personajes de la historia mexicana para posteriormente utilizarla como contenido informativo de podcasts e infografías adecuadas al rango de edad de los estudiantes de la institución.
  
- 
-
+- company:
+    name: JÓVENES AYUDANDO A NIÑOS Y NIÑAS.
+    url: "https://jann.mx/login/"
+    overview: "Proyecto para enlazar a tutores con niños tras el rezago en su educación causado por la pandemia de la COVID-19."
+  positions:
+  - designation: Tutor de matemáticas (Servicio Social)
+    start: Ene 2022 
+    end: Ene 2022 
+    responsibilities:
+    - Participar en una asociación comprometida con reducir el rezago educativo causado por la pandemia por Covid-19, específicamente en el área de las matemáticas, español y acompañamiento psico-emocional.
+    - Impartir tutorías virtuales de matemáticas a niños y niñas de primaria de todo el país y brindarles un espacio sano y seguro en donde puedan tanto comunicar sus dudas como reforzar sus habilidades.
