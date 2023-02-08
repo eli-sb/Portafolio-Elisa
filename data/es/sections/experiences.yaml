@@ -9,17 +9,16 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: ARMILIA.
+    url: "https://www.instagram.com/_armilia_/"
+    overview: "Joyería artesanal."
   positions:
-  - designation: Puesto
-    start: Jan 2022 
+  - designation: Becaria de Redes sociales (FreeLance)
+    start: Jul 2022
+    end: Nov 2022
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    - Ser responsable del manejo de todas las redes sociales y realizar el análisis de resultados para proponer estrategias para impulsar el crecimiento del negocio.
+    - Realizar publicaciones diarias, contestar mensajes de clientes para dar seguimiento a las ventas de productos.
  
 - company:
     name: Nombre Compañia.
