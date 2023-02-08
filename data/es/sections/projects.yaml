@@ -36,7 +36,7 @@ projects:
   role: GRUPO CASTELLI
   timeline: "2022" #Año
   summary: "Analizar la situación en la que se encuentra una PyME (Grupo Castelli) desde la perspectiva de su fortaleza (o debilidad) en ciberseguridad. Emplear herramientas de escaneo de vulnerabilidades (Nessus Essentials y Zenmap) para comprender la estructura de la red en una empresa y realizar el análisis de sus principales debilidades. Adicionalmente, generar un plan de mitigación y prevención para dicha empresa que podría ser implementado a corto o mediano plazo." #Descripción del proyecto
-  #url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
+  url: "Link" #Link del proyecto
   tags: ["Academic","Nessus Essentials", "Zenmap"] #Etiquetas del proyecto
  
 - name: Optimización de rutas
