@@ -12,11 +12,17 @@ buttons:
   filter: "all"
 - name: Python
   filter: "Python"
-#- name: R
-#  filter: "R"
-- name: Machine Learning
-  filter: "Machine Learning"
-- name: Academic
+- name: Excel
+  filter: "Excel"
+- name: GAMS
+  filter: "GAMS"
+- name: Nessus Essentials
+  filter: "Nessus Essentials"
+- name: Zenmap
+  filter: "Zenmap"
+#- name: Machine Learning
+#  filter: "Machine Learning"
+- name: Académico
   filter: "Academic"
 #- name: Professional
 #  filter: "Professional"
@@ -25,18 +31,35 @@ buttons:
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
-  logo: /images/sections/projects/proyecto1.png #Logo del proyecto
-  role: Professional 
+- name: Auditoría de ciberseguridad
+  logo: /images/sections/projects/castelli.png #Logo del proyecto
+  role: GRUPO CASTELLI
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
+  summary: "Analizar la situación en la que se encuentra una PyME (Grupo Castelli) desde la perspectiva de su fortaleza (o debilidad) en ciberseguridad. Emplear herramientas de escaneo de vulnerabilidades (Nessus Essentials y Zenmap) para comprender la estructura de la red en una empresa y realizar el análisis de sus principales debilidades. Adicionalmente, generar un plan de mitigación y prevención para dicha empresa que podría ser implementado a corto o mediano plazo." #Descripción del proyecto
+  #url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
+  tags: ["Academic","Nessus Essentials", "Zenmap"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
-  logo: /images/sections/projects/proyecto2.png #Logo del proyecto
-  role: Personal
+- name: Optimización de rutas
+  logo: /images/sections/projects/coppel.png #Logo del proyecto
+  role: COPPEL
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
+  summary: "Trabajar con una base de datos conteniendo la información de entregas a domicilio del socio formador para optimizar sus rutas y maximizar el número de entregas realizadas al día. Aprender sobre problemas de programación lineal para aplicarlo en herramientas como GAMS y así lograr la optimización de las rutas de entrega del socio formador. Además, presentar una estrategia para reducir la distancia recorrida por las unidades de entrega dadas las características de la base de datos brindada por Coppel." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1v7OsxKU5Jq4-mJKKz8R7XgVljtJBJTWT/view?usp=sharing" 
+  tags: ["Academic","GAMS","Python", "Excel"] #Etiquetas del proyecto
+  
+- name: QS University Rankings
+  logo: /images/sections/projects/tec.png #Logo del proyecto
+  role: TECNOLÓGICO DE MONTERREY 
+  timeline: "2022" #Año
+  summary: "Trabajar de la mano con el socio formador para buscar estrategias que posicionen al Tecnológico de Monterrey en puestos superiores dentro de los rankings mundiales de universidades con el objetivo de mejorar la calidad educativa y oportunidades laborales de los alumnos. Identificar las posibles variables que influyen en el posicionamiento de una universidad en rankings como el QS World University Ranking, a través del uso de librerías de estadística e inteligencia artificial para analizar una amplia base de datos." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1N-i7OBCFH9SB01ZPos30Y0Vvj3FCwa7M/view?usp=sharing" #Link del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
+ 
+- name: Modelación estadística
+  logo: /images/sections/projects/femsa.png #Logo del proyecto
+  role: Coca-Cola FEMSA
+  timeline: "2021" #Año
+  summary: "Colaborar en un proyecto de análisis estadístico de una base de datos brindada por el socio formador acerca de su proceso de fabricación y embotellado de bebidas con el objetivo de reducir el consumo de energía eléctrica. Realizar un análisis estadístico utilizando herramientas de programación (Python) para encontrar mediante una base de datos, posibles patrones o información que indiquen un uso elevado de energía eléctrica en el proceso industrial de la empresa." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1G4TYfSW_YnHEHaLz_nloR-oNPiSFHmW5/view?usp=sharing" #Link del repositorio de github del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
+  
