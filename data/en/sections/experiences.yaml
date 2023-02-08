@@ -9,31 +9,37 @@ section:
 # Tus experiencias
 experiences:
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: ARMILIA.
+    url: "https://www.instagram.com/_armilia_/"
+    overview: "Handmade jewelry."
   positions:
-  - designation: Puesto
-    start: Jan 2022 
+  - designation: Social Media Intern (Freelance)
+    start: Jul 2022
+    end: Nov 2022
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
+    - Being responsible for the management of all social networks and perform the analysis of results to propose strategies to drive business growth.
+    - Upload daily posts and answer customer messages to follow up on product sales.
  
 - company:
-    name: Nombre Compañia.
-    url: "link"
-    overview: "Descripción."
+    name: YMCA NAUCALPAN.
+    url: "https://www.ymca.org.mx/PY_CDCS.html"
+    overview: "Community development center."
   positions:
-  - designation: Puesto
-    start: Jan 2022 
-    end: Feb 2022 
+  - designation: Educational content creator (Social Service)
+    start: Jun 2022 
+    end: Jul 2022 
     responsibilities:
-    - Responsabilidad 1
-    - Responsabilidad 2
-    - Responsabilidad 3
-    - Responsabilidad 4
- 
- 
-
+    - Participate in an organization committed to promoting the potential of low-income children and adults in the educational, sports, cultural and community development areas.
+    - Investigate and collect information about different characters in Mexican history to implement it as informative content for podcasts and infographics appropriate to the age range of the institution's students.
+    
+- company:
+    name: JÓVENES AYUDANDO A NIÑOS Y NIÑAS.
+    url: "https://jann.mx/login/"
+    overview: "Project that links tutors with children who have suffered from lag in their education caused by the COVID-19 pandemic."
+  positions:
+  - designation: Mathematics Tutor (Social Service)
+    start: Jan 2022 
+    end: Jan 2022 
+    responsibilities:
+    - Participate in an association committed to reducing the educational gap caused by the Covid-19 pandemic, specifically in the area of mathematics, spanish speaking and psycho-emotional support.
+    - Provide virtual math tutoring to primary school boys and girls from all over the country and provide them with a healthy and safe space where they can both communicate their doubts and reinforce their skills.
