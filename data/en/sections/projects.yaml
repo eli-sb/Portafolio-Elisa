@@ -12,10 +12,16 @@ buttons:
   filter: "all"
 - name: Python
   filter: "Python"
-#- name: R
-#  filter: "R"
-- name: Machine Learning
-  filter: "Machine Learning"
+- name: Excel
+  filter: "Excel"
+- name: GAMS
+  filter: "GAMS"
+- name: Nessus Essentials
+  filter: "Nessus Essentials"
+- name: Zenmap
+  filter: "Zenmap"
+#- name: Machine Learning
+#  filter: "Machine Learning"
 - name: Academic
   filter: "Academic"
 #- name: Professional
@@ -25,19 +31,34 @@ buttons:
  
 # Proyectos
 projects:
-- name: Nombre del proyecto 1
-  logo: /images/projects/proyecto1.png #Logo del proyecto
-  role: Professional 
+- name: Cybersecurity audit
+  logo: /images/projects/castelli.png #Logo del proyecto
+  role: GRUPO CASTELLI
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  url: "https://youtu.be/3Cey1PUhGBg" #Link del proyecto
-  tags: ["Professional","Python"] #Etiquetas del proyecto
+  summary: "Analyze the situation of an SME (Grupo Castelli) from the perspective of its strengths (or weaknesses) in cybersecurity. Employ vulnerability scanning tools (Nessus Essentials and Zenmap) to understand the network structure of a company and analyze its main weaknesses. Additionally, generate a mitigation and prevention plan for the company that could be implemented in the short or medium term." #Descripción del proyecto
+  url: "Link" #Link del proyecto
+  tags: ["Academic","Nessus Essentials", "Zenmap"] #Etiquetas del proyecto
  
-- name: Nombre del proyecto 2
-  logo: /images/projects/proyecto2.png #Logo del proyecto
-  role: Personal
+- name: Route optimization
+  logo: /images/projects/coppel.png #Logo del proyecto
+  role: COPPEL
   timeline: "2022" #Año
-  summary: "Resumen del proyecto" #Descripción del proyecto
-  repo: "Link" #Link del repositorio de github del proyecto
-  tags: ["Personal","R","Machine Learning" ] #Etiquetas del proyecto
-
+  summary: "Work with a database containing Coppel’s delivery information to optimize their routes and maximize the number of deliveries made per day. Learn about linear programming problems to be applied in tools such as GAMS to optimize Coppel’s delivery routes. In addition, present a strategy to reduce the distance traveled by the delivery units given the characteristics of the database provided by Coppel." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1v7OsxKU5Jq4-mJKKz8R7XgVljtJBJTWT/view?usp=sharing" 
+  tags: ["Academic","GAMS","Python", "Excel"] #Etiquetas del proyecto
+  
+- name: QS University Rankings
+  logo: /images/projects/tec.png #Logo del proyecto
+  role: TECNOLÓGICO DE MONTERREY 
+  timeline: "2022" #Año
+  summary: "Work hand in hand with Tecnológico de Monterrey to seek strategies that position the university in higher positions within the world university rankings in order to improve the quality of education and job opportunities for students. Identify the variables that influence the positioning of a university in rankings such as the QS World University Ranking, through the use of statistical libraries and artificial intelligence to analyze a large database." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1N-i7OBCFH9SB01ZPos30Y0Vvj3FCwa7M/view?usp=sharing" #Link del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
+ 
+- name: Statistical modeling
+  logo: /images/projects/femsa.png #Logo del proyecto
+  role: Coca-Cola FEMSA
+  timeline: "2021" #Año
+  summary: "Collaborate in a statistical analysis project for a database provided by Coca-Cola FEMSA about its beverage manufacturing and bottling process with the objective of reducing electrical energy consumption. Perform a statistical analysis using programming tools (Python) to find through a database, possible patterns or information that indicate a high use of electrical energy in the industrial process of the company." #Descripción del proyecto
+  url: "https://drive.google.com/file/d/1G4TYfSW_YnHEHaLz_nloR-oNPiSFHmW5/view?usp=sharing" #Link del repositorio de github del proyecto
+  tags: ["Academic","Python"] #Etiquetas del proyecto
